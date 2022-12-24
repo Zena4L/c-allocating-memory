@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
-* Description - enum datatype in C
+* Description - Using the enum Data Type
 */
 int main(void)
 {
